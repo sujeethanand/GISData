@@ -29,10 +29,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>-95.09190040383148812</xmin>
-            <ymin>41.96714684356233249</ymin>
-            <xmax>-81.97243262362437122</xmax>
-            <ymax>49.29702456834333191</ymax>
+            <xmin>-103.65130600502740776</xmin>
+            <ymin>35.42767989647659732</ymin>
+            <xmax>-97.65229087175042366</xmax>
+            <ymax>38.10291637482984584</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -55,8 +55,8 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="majrivers20150604085536559"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39_prisecroads20150604101135756"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_roads20150604095658239"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="rivers20150604085536680"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_654620150916134027876"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="rivers20150604085536680"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_220150916134014267"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_us_primaryroads20150604094925681"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_820150916134024633"/>
