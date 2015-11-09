@@ -1,24 +1,24 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis projectname="" version="2.6.0-Brighton">
     <title></title>
-    <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <layer-tree-group expanded="1" checked="Qt::Checked" name="">
         <customproperties/>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_220150916134014267" name="marketstaging_2">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_220150916134014267" name="marketstaging_2">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_320150916134016174" name="marketstaging_3">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_320150916134016174" name="marketstaging_3">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_420150916134018648" name="marketstaging_4">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_420150916134018648" name="marketstaging_4">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_520150916134020960" name="marketstaging_5">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_520150916134020960" name="marketstaging_5">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_820150916134024633" name="marketstaging_8">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_820150916134024633" name="marketstaging_8">
             <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="marketstaging_654620150916134027876" name="marketstaging_6546">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="marketstaging_654620150916134027876" name="marketstaging_6546">
             <customproperties/>
         </layer-tree-layer>
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="Metro_Boundaries20150916134357566" name="Metro Boundaries">
@@ -29,10 +29,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>-103.10247510838709672</xmin>
-            <ymin>32.96980074145159989</ymin>
-            <xmax>-94.37778451612902586</xmax>
-            <ymax>37.8443060414516097</ymax>
+            <xmin>-95.09190040383148812</xmin>
+            <ymin>41.96714684356233249</ymin>
+            <xmax>-81.97243262362437122</xmax>
+            <ymax>49.29702456834333191</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -55,8 +55,8 @@
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="majrivers20150604085536559"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39_prisecroads20150604101135756"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_roads20150604095658239"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_654620150916134027876"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="rivers20150604085536680"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_654620150916134027876"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_220150916134014267"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_us_primaryroads20150604094925681"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_820150916134024633"/>
@@ -83,34 +83,34 @@
         </custom-order>
     </layer-tree-canvas>
     <legend updateDrawingOrder="true">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_2" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_2" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_220150916134014267" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_220150916134014267" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_3" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_3" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_320150916134016174" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_320150916134016174" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_4" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_4" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_420150916134018648" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_420150916134018648" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_5" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_5" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_520150916134020960" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_520150916134020960" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_8" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_8" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_820150916134024633" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_820150916134024633" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marketstaging_6546" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marketstaging_6546" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="marketstaging_654620150916134027876" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="marketstaging_654620150916134027876" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Metro Boundaries" showFeatureCount="0">
@@ -142,7 +142,7 @@
                 </spatialrefsys>
             </srs>
             <provider encoding="UTF-8">ogr</provider>
-            <previewExpression>COALESCE( "NAME", '&lt;NULL>' )</previewExpression>
+            <previewExpression></previewExpression>
             <vectorjoins/>
             <expressionfields/>
             <edittypes>
