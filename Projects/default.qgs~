@@ -29,12 +29,12 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>-120.5278692614019036</xmin>
-            <ymin>24.45893607810139514</ymin>
-            <xmax>-76.61578621207461026</xmax>
-            <ymax>49.99229614660143994</ymax>
+            <xmin>-95.09190040383148812</xmin>
+            <ymin>41.96714684356233249</ymin>
+            <xmax>-81.97243262362437122</xmax>
+            <ymax>49.29702456834333191</ymax>
         </extent>
-        <projections>0</projections>
+        <projections>1</projections>
         <destinationsrs>
             <spatialrefsys>
                 <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -48,18 +48,26 @@
             </spatialrefsys>
         </destinationsrs>
         <layer_coordinate_transform_info>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="lakes20150604085536276"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_Office20150604084836708"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_office20150604084949691"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_SpcUse20150604095837592"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_areawater20150604090358883"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_us_primaryroads20150604094925681"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39_prisecroads20150604101135756"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="majrivers20150604085536559"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="rivers20150604085536680"/>
-            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_roads20150604095658239"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_linearwater20150604090400171"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_520150916134020960"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="CityofGreenBay20151103165010004"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_SpcUse20150604095837592"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="majrivers20150604085536559"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39_prisecroads20150604101135756"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_roads20150604095658239"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="rivers20150604085536680"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_654620150916134027876"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_220150916134014267"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_us_primaryroads20150604094925681"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_820150916134024633"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_office20150604084949691"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_39035_areawater20150604090358883"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_420150916134018648"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Cleveland_Office20150604084836708"/>
             <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="tl_2014_us_coastline20150604091906935"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="marketstaging_320150916134016174"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:2964" srcDatumTransform="-1" destDatumTransform="-1" layerid="lakes20150604085536276"/>
+            <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Metro_Boundaries20150916134357566"/>
         </layer_coordinate_transform_info>
     </mapcanvas>
     <visibility-presets/>
@@ -243,10 +251,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -421,10 +429,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -578,10 +586,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -735,10 +743,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -892,10 +900,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -1049,10 +1057,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -1206,10 +1214,10 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
             <featformsuppress>0</featformsuppress>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
@@ -1259,7 +1267,7 @@
             <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
             <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
             <ProjectCRSID type="int">3452</ProjectCRSID>
-            <ProjectionsEnabled type="int">0</ProjectionsEnabled>
+            <ProjectionsEnabled type="int">1</ProjectionsEnabled>
         </SpatialRefSys>
         <Paths>
             <Absolute type="bool">false</Absolute>
@@ -1275,13 +1283,13 @@
         </Gui>
         <Digitizing>
             <LayerSnappingList type="QStringList">
+                <value>Metro_Boundaries20150916134357566</value>
                 <value>marketstaging_220150916134014267</value>
                 <value>marketstaging_320150916134016174</value>
                 <value>marketstaging_420150916134018648</value>
                 <value>marketstaging_520150916134020960</value>
-                <value>marketstaging_820150916134024633</value>
                 <value>marketstaging_654620150916134027876</value>
-                <value>Metro_Boundaries20150916134357566</value>
+                <value>marketstaging_820150916134024633</value>
             </LayerSnappingList>
             <LayerSnappingEnabledList type="QStringList">
                 <value>enabled</value>
