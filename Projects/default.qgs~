@@ -29,10 +29,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-104.06113971215225433</xmin>
-      <ymin>36.2235888349509878</ymin>
-      <xmax>-98.06212457887525602</xmax>
-      <ymax>38.89882531330422921</ymax>
+      <xmin>-104.10865666370297333</xmin>
+      <ymin>36.12855493184957112</ymin>
+      <xmax>-98.10964153042597502</xmax>
+      <ymax>38.80379141020281253</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
